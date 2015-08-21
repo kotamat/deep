@@ -4,6 +4,7 @@ git clone https://gist.github.com/f24aed76b4cc91bfb2c1.git
 sh f24aed76b4cc91bfb2c1/install-ffmpeg-amazon-linux.sh
 
 git clone https://github.com/graphific/DeepDreamVideo.git
+pip install numpy
 cd DeepDreamVideo
 mkdir frames
 mkdir processed_frames
