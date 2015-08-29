@@ -1,6 +1,6 @@
 # 対象となる動画はサーバに上がっている前提 (~/$1)
 yum install git -y
-git clone https://gist.github.com/f24aed76b4cc91bfb2c1.git
+git clone https://gist.github.com/69203cd11dec2fd0805e.git
 sh f24aed76b4cc91bfb2c1/install-ffmpeg-amazon-linux.sh
 
 git clone https://github.com/graphific/DeepDreamVideo.git
